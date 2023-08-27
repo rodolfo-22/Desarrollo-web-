@@ -1,2 +1,3 @@
 # Dweb-cards
-Desarrollo de aplicacion web
+Desarro web de aplicaciones
+encontraras ejemplos practicos y ejercicios
